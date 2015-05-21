@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Shapes", "OOP Principles II\01.Shapes.csproj", "{EA218BEB-D7E8-4785-BBF2-E705F6FC83C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Bank", "02.Bank\02.Bank.csproj", "{F3DB3914-3621-4D4B-B73F-875BE9CC6B79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ImplementExeptions", "03.ImplementExeptions\03.ImplementExeptions.csproj", "{EA150F10-563E-4D6E-8AE3-36F252CF6ADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA218BEB-D7E8-4785-BBF2-E705F6FC83C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA218BEB-D7E8-4785-BBF2-E705F6FC83C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA218BEB-D7E8-4785-BBF2-E705F6FC83C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA218BEB-D7E8-4785-BBF2-E705F6FC83C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3DB3914-3621-4D4B-B73F-875BE9CC6B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3DB3914-3621-4D4B-B73F-875BE9CC6B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3DB3914-3621-4D4B-B73F-875BE9CC6B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3DB3914-3621-4D4B-B73F-875BE9CC6B79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA150F10-563E-4D6E-8AE3-36F252CF6ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA150F10-563E-4D6E-8AE3-36F252CF6ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA150F10-563E-4D6E-8AE3-36F252CF6ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA150F10-563E-4D6E-8AE3-36F252CF6ADC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
